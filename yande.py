@@ -144,7 +144,7 @@ if __name__ == '__main__':
         start=(2024, 1, 1),
         end=(),
         model='MONTH',
-        tag={'pussy'},
+        tag={''},
         tag_mode='OR',
         proxy='http://127.0.0.1:10809',
         max_post=6,
